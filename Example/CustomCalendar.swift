@@ -9,10 +9,9 @@ import SwiftUI
 
 struct CustomCalendar: View {
     @State var selectedTrain = "1"
+    @State var test = true
     var body: some View {
         VStack {
-//            Text("most popular spots")
-//                .font(.title)
 //            Image("nyc")
 //                .resizable()
 //                .scaledToFill()
