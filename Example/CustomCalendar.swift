@@ -17,8 +17,9 @@ struct CustomCalendar: View {
 //                .scaledToFill()
 //                .frame(width: 200, height: 300)
 //                .clipped()
+            Text("new text!!")
         }
-        .frame(width: 300)
+        .frame(width: 200)
         .padding()
     }
 }
