@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CustomCalendar: View {
     @State var selectedTrain = "1"
-    @State var test = true
+    @State var test2 = true
     var body: some View {
         VStack {
 //            Image("nyc")
